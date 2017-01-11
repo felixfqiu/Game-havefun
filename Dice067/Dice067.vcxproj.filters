@@ -16,9 +16,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Dice.h">
-      <Filter>Feng\Utils</Filter>
-    </ClInclude>
     <ClInclude Include="Buddy.h">
       <Filter>Feng\Utils</Filter>
     </ClInclude>
@@ -49,9 +46,6 @@
       <Filter>Feng</Filter>
     </ClCompile>
     <ClCompile Include="ShotRound.cpp">
-      <Filter>Feng</Filter>
-    </ClCompile>
-    <ClCompile Include="Dice.cpp">
       <Filter>Feng</Filter>
     </ClCompile>
     <ClCompile Include="RandomName.cpp">

@@ -48,6 +48,7 @@ public:
 public:
 	static int GenerateRandomNumber(const int nMax, const int nMin = 0);
 	static wchar_t* GenerateRandomName(wchar_t *nameBuf, const int bufSize = 5);
+
 	// µ¥ÐÕ µ¥Ãû
 	static wchar_t* GenerateRandomName_DanXingDanMingBoy(wchar_t *nameBuf,
 		const int bufSize = 3);
